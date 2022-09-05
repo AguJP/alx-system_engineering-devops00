@@ -1,2 +1,2 @@
 #!/bin/bash
- touch -c hello
+touch -c hello
