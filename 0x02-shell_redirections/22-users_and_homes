@@ -1,2 +1,2 @@
 #!/bin/bash
-users $HOME | sort
+sort etc/passwd
